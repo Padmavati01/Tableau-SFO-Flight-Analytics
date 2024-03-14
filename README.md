@@ -6,7 +6,7 @@ Excited to introduce my latest project – an interactive dashboard showcasing i
 
 - **Total Flights:** Get a comprehensive overview of the total number of flights operating through SFO.
 - **Top 10 Busiest Routes:** Explore the busiest routes originating from and arriving at SFO.
-- **Flight Take Off:** Analyze on which day are there more flight takeoffs
+- **Flight Take Off:** Analyze on which day there are more flight takeoffs
 - **Top 10 Longest Routes:** Discover the longest routes serviced by flights operating out of SFO, offering insights into international connections and long-haul travel.
 - **MapLine Visualization:** Visualize flight routes using MapLine, providing dynamic representations of flight paths and destinations connected through SFO with distance.
 - **Monthly Flight Trends:** Observe monthly trends in flight activity at SFO, highlighting fluctuations and seasonal variations in air traffic.
