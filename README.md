@@ -105,6 +105,19 @@ Focused on deeper performance and regional insights.
 
 ---
 
+## 🔗 Live Interactive Second Dashboard
+
+View the dashboard on Tableau Public:
+
+👉 [Open Tableau Dashboard](https://public.tableau.com/app/profile/padmavati.vhanale/viz/Tableau-SFO-Flight-Analytics/Dashboard2?publish=yes)
+
+---
+
+## Dashboard Screenshots ⭐
+
+
+
+
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Excel** — Data Cleaning & Pivot Analysis
