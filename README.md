@@ -115,10 +115,10 @@ View the dashboard on Tableau Public:
 
 ## 📊 Dashboard Preview
 
-### ✈️ Passenger Traffic Dashboard
+### ✈️ Dashboard 1 
 ![Passenger Dashboard](screenshots/dashboard1.png)
 
-### 📦 Cargo Traffic Dashboard
+### 📦 Dashboard 2
 ![Cargo Dashboard](screenshots/dashboard_2.png)
 
 ---
